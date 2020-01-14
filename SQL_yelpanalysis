@@ -6,7 +6,7 @@ Part 2: Inferences and analysis for a research question
 
 Part 1: Yelp Dataset Profiling and Understanding
 
-Total number of records for each of the tables in the relational database:
+1. Total number of records for each of the tables in the relational database:
 	
 i. Attribute table = 10000
 ii. Business table = 10000
